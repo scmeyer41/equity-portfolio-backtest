@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+.Ruserdata
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+original-submission/
