@@ -94,6 +94,6 @@ This project is an educational backtest, not investment advice.
 **Course:** Data Analytics with R  
 **Institution:** New Jersey Institute of Technology  
 **Team members:** Steven Meyer, Matthew Pennington, and Theo Edgehill  
-**My contributions:** My contributions primarily involved data cleaning, visualization, and formatting the final HTML submission.
+**My contributions:** Data cleaning, visualization, and formatting the final HTML submission.
 
 Historical price data in the original assignment were obtained from Yahoo Finance. USD/JPY data were obtained from Myfxbook. Review each provider's redistribution terms before committing raw data to a public repository.
